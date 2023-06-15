@@ -118,5 +118,17 @@ Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.or
 * [![TeamUltroid-Devs](https://img.shields.io/static/v1?label=Teamultroid&message=devs&color=critical)](https://t.me/UltroidDevs)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
 * [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/MarshalX/tgcalls)
+* 
+
+
+
+
+  <h1>
+    <p align="center">
+        <a href="https://heroku.com/deploy?template=https://github.com/Devilharsha/Ultroid">
+            <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+        </a>
+    </p>
+</h1>
 
 > Made with 💕 by [@TeamUltroid](https://t.me/TeamUltroid).    
